@@ -31,6 +31,3 @@ public class Nstring9 {
         }
     }
 }
-//```
-
-//This version will check the entire string and print whether it contains any digits or not. Let me know if you need any further assistance!
