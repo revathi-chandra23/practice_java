@@ -6,6 +6,8 @@ import java.util.function.Function;
 public class spped {
     public static void main(String[] args) {
         //speed s=()->98;
+        speed s2=(i)-> System.out.println(i);
+        s2.speeeed(89);
         speed s=System.out::println;
        // System.out.println("spped: "+s.speeeed());
         s.speeeed(98);
